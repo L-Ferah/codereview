@@ -18,4 +18,4 @@
 #How many Dogs? 8
 #50 legs
 
-#Create a python script to solve this problem.
+#Create a python script to solve this problem..
